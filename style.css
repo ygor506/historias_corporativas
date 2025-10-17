@@ -1,24 +1,33 @@
-	body {
+*{
+	margin:0px;
+	padding:0px;
+}	
 
-	}
+body {
+	line-height: 1.5;
+	font-size: 18px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	width: 75%;
+	text-align: center;
+}
 	
-	h1{
+h1{
 		
 
-	}
+}
 
-	p{
+p{
 		
-	}
+}
 
-	img{
+img{
 		
-	}
+}
 	
-	.imgindex{
+.imgindex{
 		
-	}
+}
 	
-	#principal {
+#principal {
 		
-	}
+}
